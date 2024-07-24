@@ -14,7 +14,7 @@ cd
 mkdir bash_scripts
 ```
 * Now copy the text in profile.txt and paste it at the end of ./profile in linux
-  ```
+```
   if [ -z "$SSH_TTY" ] && [ -z "$DISPLAY" ]; then
     source ~/bash_scripts/startup_handler.sh
 fi
