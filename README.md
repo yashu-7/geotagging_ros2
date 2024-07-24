@@ -19,4 +19,4 @@ mkdir bash_scripts
     source ~/bash_scripts/startup_handler.sh
 fi
 ```
-* This enables the script to run on startup and it launches all the necessary packages ** But make sure to enable autologin on the raspberry pi so the scripts start** 
+* This enables the script to run on startup and it launches all the necessary packages __But make sure to enable autologin on the raspberry pi so the scripts start__ 
