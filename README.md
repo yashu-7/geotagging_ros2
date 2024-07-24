@@ -6,7 +6,7 @@
 ros2 launch geotagging geotag.launch.xml
 ```
 ---
->** create a folder named bash_scripts in home directory and copy _ros2_launch.sh_, _dds_launch.sh_, _micro_ros.sh_, _startup_handler.sh_ into the directory**
+**create a folder named bash_scripts in home directory and copy _ros2_launch.sh_, _dds_launch.sh_, _micro_ros.sh_, _startup_handler.sh_ into the directory**
 ```
 # Run the commands to create bash_scripts folder in the home directory 
 clear
