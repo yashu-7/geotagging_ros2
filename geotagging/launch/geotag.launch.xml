@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="geotagging" exec="campub"/>
+	<node pkg="geotagging" exec="buff"/>
+	<node pkg="geotagging" exec="imgsave"/>
+	<node pkg="geotagging" exec="trigger"/>
+</launch>
